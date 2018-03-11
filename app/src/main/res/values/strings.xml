@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">双星云犬</string>
+    <string name="login_readeritem">登录即代表阅读并同意阅读条款</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="telephone">手机号</string>
+    <string name="password">密码</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="newuser_register">新用户注册</string>
+</resources>
